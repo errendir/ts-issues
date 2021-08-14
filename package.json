@@ -1,0 +1,9 @@
+{
+  "name": "ts-issues",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "perf": "npx cross-env TEST_FRESH_TS='true' tsc --diagnostics --noEmit --lib es5 simplified-mongoose-explosion-2.d.ts"
+  }
+}
