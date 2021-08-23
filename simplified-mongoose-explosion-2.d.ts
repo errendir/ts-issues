@@ -12,25 +12,25 @@ declare namespace Simplified2 {
       // Uncomment the following to fix everything
       // Surprisingly enough this does nothing in the actual mongo typings
       // __hiddenCovarianter: T
-      $padding001?: _FilterQuery<T>[] | undefined;
-      $padding002?: _FilterQuery<T>[] | undefined;
-      $padding003?: _FilterQuery<T>[] | undefined;
-      $padding004?: _FilterQuery<T>[] | undefined;
-      $padding005?: _FilterQuery<T>[] | undefined;
-      $padding006?: _FilterQuery<T>[] | undefined;
-      $padding007?: _FilterQuery<T>[] | undefined;
-      $padding008?: _FilterQuery<T>[] | undefined;
-      $padding009?: _FilterQuery<T>[] | undefined;
-      $padding010?: _FilterQuery<T>[] | undefined;
-      $padding011?: _FilterQuery<T>[] | undefined;
-      $padding012?: _FilterQuery<T>[] | undefined;
-      $padding013?: _FilterQuery<T>[] | undefined;
-      $padding014?: _FilterQuery<T>[] | undefined;
-      $padding015?: _FilterQuery<T>[] | undefined;
-      $padding016?: _FilterQuery<T>[] | undefined;
-      $padding017?: _FilterQuery<T>[] | undefined;
-      $padding018?: _FilterQuery<T>[] | undefined;
-      $padding019?: _FilterQuery<T>[] | undefined;
+      $padding001?: _FilterQuery<T>;
+      $padding002?: _FilterQuery<T>;
+      $padding003?: _FilterQuery<T>;
+      $padding004?: _FilterQuery<T>;
+      $padding005?: _FilterQuery<T>;
+      $padding006?: _FilterQuery<T>;
+      $padding007?: _FilterQuery<T>;
+      $padding008?: _FilterQuery<T>;
+      $padding009?: _FilterQuery<T>;
+      $padding010?: _FilterQuery<T>;
+      $padding011?: _FilterQuery<T>;
+      $padding012?: _FilterQuery<T>;
+      $padding013?: _FilterQuery<T>;
+      $padding014?: _FilterQuery<T>;
+      $padding015?: _FilterQuery<T>;
+      $padding016?: _FilterQuery<T>;
+      $padding017?: _FilterQuery<T>;
+      $padding018?: _FilterQuery<T>;
+      $padding019?: _FilterQuery<T>;
     }
 
     class Document {
